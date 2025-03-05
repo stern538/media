@@ -1,0 +1,16 @@
+body {
+    background-color: darkseagreen;
+    font-family: "pressato-variable", sans-serif;
+    font-variation-settings: "slnt" 0, "wght" 200, "wdth" 1000;
+    <p style="background-color:Tomato;"
+}
+
+h1 {
+    font-variation-settings: "slnt" 0, "wght" 800, "wdth" 900;
+}
+h2{
+    font-size: 100px;
+    font-variation-settings: "slnt" 20 "wdth" 1000;
+}
+
+<h1 style="background-color:rgb(255, 99, 71);
